@@ -1818,10 +1818,11 @@ markers:
       ', id: KR1b0010_krp_014-bkkkrnewl362}
   - {type: line-break, offset: 6361, content: '', id: KR1b0010_WYG_014-21a03}
   - {type: punctuation, offset: 6363, content: (, id: KR1b0010_krp_014-bkkpn1}
+  - {type: voice, offset: 6363, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 6369, content: /, id: KR1b0010_krp_014-bkkpn2}
   - {type: punctuation, offset: 6374, content: ), id: KR1b0010_krp_014-bkkpn3}
   - {type: 'kr:newline', offset: 6374, content: '
 
       ', id: KR1b0010_krp_014-bkkkrnewl363}
   back: []
-hash: sha256:f109edf04213c4b9a81473a669715c21a828a202bc68c986d062200f3faa8d94
+hash: sha256:0c746bdb5abe3845a76ac4bc5071f3fa89f0da92cd6e9b66f2b1a9a946460bdc
